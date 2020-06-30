@@ -1,0 +1,11 @@
+{
+  "properties": [
+{
+"name": "reach.email.enable",
+"type": "java.lang.Boolean",
+"description": "Enable send emails.",
+"sourceType": "com.toreachtop.email.spring.boot.starter.template.MailSenderTemplate",
+"defaultValue": false
+}
+]
+}
